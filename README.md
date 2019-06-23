@@ -1,3 +1,3 @@
 # TicTacToe
-Android Game
+Android Studio
 TryI t Free
