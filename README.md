@@ -1,3 +1,3 @@
 # TicTacToe
 Android Studio
-TryI t Free
+Try It Free
